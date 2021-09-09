@@ -22,8 +22,8 @@ The project also has an admin panel where you can manage :
 
 Project still need some fixes like : 
 
-*database is to be completed because it was finished manually while building the site
-*the appearance of the site is to be repaired due to the change of assumption of what will be the theme of the store from a sports shop to a shop with Japanese culture
+-database is to be completed because it was finished manually while building the site
+-the appearance of the site is to be repaired due to the change of assumption of what will be the theme of the store from a sports shop to a shop with Japanese culture
 
 Main Page:
 ![image](https://user-images.githubusercontent.com/41149199/132623221-6f96e721-8ec0-446f-8c82-e69dc9cc2705.png)
