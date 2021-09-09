@@ -1,5 +1,5 @@
 # Shop-Anime
-Project of Shop made in PHP/JS/CSS/BootStrap/MySQL 
+Project of Shop made in PHP/JS/CSS/BootStrap/MySQL/Hack 
 Login and Password for Admin (Login: admin@gmail.com hasło: 123456789) | User (antek@gmail.com hasło: Antek)
 Project Functions :
 
